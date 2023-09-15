@@ -1,4 +1,4 @@
-# Equativ — Display SDK
+# Equativ — Instream SDK
 
 Official _Equativ Instream SDK_ Swift Package Manager repository.
 
