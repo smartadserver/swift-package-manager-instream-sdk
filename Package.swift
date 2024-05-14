@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "SVSVideoKit",
-            url: "https://sdk.sascdn.com/mobile/instreamsdk/ios/SVSVideoKit-7.24.3.zip",
-            checksum: "f4777eb794a77d85722909c65b241ff601d8431f489ef1170940ddd021c1f72f"),
+            url: "https://sdk.sascdn.com/mobile/instreamsdk/ios/SVSVideoKit-7.25.0.zip",
+            checksum: "e6483f413575641a787e21000cf03b718233e0ddb0595fd670ab266b5219098b"),
     ]
 )
